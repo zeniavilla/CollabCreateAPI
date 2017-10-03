@@ -4,7 +4,7 @@ collab|create is a CRUD app that allows creative professionals to connect and wo
 
 For the client, visit [CollabCreateClient](https://github.com/zeniavilla/CollabCreateClient).
 
-For a demo, visit [Experience It](https://collab-create.herokuapp.com/).
+For a demo, visit [collab|create](https://collab-create.herokuapp.com/).
 
 ## Installation
 
